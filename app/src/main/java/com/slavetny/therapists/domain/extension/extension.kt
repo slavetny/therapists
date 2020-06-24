@@ -1,4 +1,4 @@
-package com.slavetny.therapists.data.extension
+package com.slavetny.therapists.domain.extension
 
 import android.util.Patterns
 import android.view.LayoutInflater

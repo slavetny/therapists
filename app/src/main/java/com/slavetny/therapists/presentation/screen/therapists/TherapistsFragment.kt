@@ -5,7 +5,7 @@ import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.slavetny.cryptocurrencyrate.presentation.base.BaseFragment
 import com.slavetny.therapists.R
-import com.slavetny.therapists.data.extension.observeNotNull
+import com.slavetny.therapists.domain.extension.observeNotNull
 import com.slavetny.therapists.presentation.adapter.TherapistsAdapter
 import kotlinx.android.synthetic.main.fragment_therpists.*
 import org.koin.androidx.viewmodel.ext.android.viewModel

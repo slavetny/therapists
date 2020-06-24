@@ -6,8 +6,8 @@ import android.widget.Toast
 import com.slavetny.cryptocurrencyrate.presentation.base.BaseFragment
 import com.slavetny.therapists.R
 import com.slavetny.therapists.TherapistsApp
-import com.slavetny.therapists.data.extension.isEmail
-import com.slavetny.therapists.data.extension.isPassword
+import com.slavetny.therapists.domain.extension.isEmail
+import com.slavetny.therapists.domain.extension.isPassword
 import com.slavetny.therapists.presentation.navigation.Navigator
 import kotlinx.android.synthetic.main.fragment_login.*
 import org.koin.androidx.viewmodel.ext.android.viewModel

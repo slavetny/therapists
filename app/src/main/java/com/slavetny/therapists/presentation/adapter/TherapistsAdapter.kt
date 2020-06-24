@@ -3,7 +3,7 @@ package com.slavetny.therapists.presentation.adapter
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.slavetny.therapists.R
-import com.slavetny.therapists.data.extension.inflate
+import com.slavetny.therapists.domain.extension.inflate
 import com.slavetny.therapists.domain.model.Therapist
 
 class TherapistsAdapter(private val therapistsList: List<Therapist>) : RecyclerView.Adapter<TherapistsViewHolder>() {
