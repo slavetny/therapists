@@ -3,6 +3,7 @@
 
     <string name="login_title">Enter you email address</string>
     <string name="login_text">By continuing you agree with our Privacy policy and Terms of use</string>
+    <string name="continue_btn_text">Continue</string>
 
     <string name="therapists_title">Choose a therapist</string>
 

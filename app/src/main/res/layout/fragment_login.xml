@@ -74,7 +74,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/circle_button"
         android:backgroundTint="@color/black"
-        android:text="continue"
+        android:text="@string/continue_btn_text"
         android:textColor="@color/white"
         android:textSize="@dimen/text_size"
         android:textStyle="bold"
