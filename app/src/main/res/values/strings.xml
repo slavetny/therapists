@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Therapists</string>
+
+    <string name="login_title">Enter you email address</string>
+    <string name="login_text">By continuing you agree with our Privacy policy and Terms of use</string>
+
+    <string name="therapists_title">Choose a therapist</string>
+
+    <string name="email_hint">Your email address</string>
+    <string name="login_hint">Your password</string>
+
+    <string name="forgot_password">Forgot password?</string>
+</resources>
