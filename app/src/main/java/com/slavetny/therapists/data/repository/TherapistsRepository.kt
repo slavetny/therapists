@@ -26,7 +26,7 @@ class TherapistsRepository(private val therapistsService: TherapistsService) {
             }
 
             override fun onResponse(call: Call<Token>, response: Response<Token>) {
-                TherapistsApp.setToken(context, response.body()!!.id_token)
+                TherapistsApp.setToken(context, response.body()!!.id)
             }
         })
     }
